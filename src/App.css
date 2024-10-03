@@ -1,0 +1,35 @@
+/* App.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input, select, button {
+  margin: 5px;
+  padding: 8px;
+}
+
+.module, .resource {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px 0;
+  background-color: #f9f9f9;
+}
+
+.module h2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.highlight {
+  background-color: #e0e0e0;
+}
